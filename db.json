@@ -1,0 +1,34 @@
+{
+  "pagePeriode" : {
+    "pre-histoire" : {
+      "title" : "LA PREHISTOIRE",
+      "subtitle" : "Afrique, Europe, Asie",
+      "text" : "Les premières histoires de la vie des Hommes nous sont apportées par les peintures rupestres retrouvées sur les parois des grottes. Les Hommes des cavernes racontaient leurs chasses, les danger et leur vie commune à travers des dessins.",
+      "rightpeople" : "https://ibb.co/1XCzxmS",
+      "leftpeople" : "https://ibb.co/9W6YT3r"
+    },
+    "ere-romaine" : {
+      "title" : "L'ère romaine",
+      "subtitle": "Amerique, Europe",
+      "text" : "Les premières histoires de la vie des Hommes nous sont apportées par les peintures rupestres retrouvées sur les parois des grottes. Les Hommes des cavernes racontaient leurs chasses, les danger et leur vie commune à travers des dessins.",
+      "rightpeople" : "https://ibb.co/1XCzxmS",
+      "leftpeople" : "https://ibb.co/9W6YT3r"
+    }
+  },
+  "pageObjet" : {
+    "pre-histoire" : {
+      "title" : "La préhistoire",
+      "subtitle" : "Test",
+      "text" : "Les premières histoires de la vie des Hommes nous sont apportées par les peintures rupestres retrouvées sur les parois des grottes. Les Hommes des cavernes racontaient leurs chasses, les danger et leur vie commune à travers des dessins.",
+      "leftpeople" : "https://ibb.co/9W6YT3r",
+      "objetOne" : {
+        "name" : "la peinture",
+        "text" : "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+      },
+      "objetTwo" : {
+        "name" : "la peinture",
+        "text" : "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+      }
+    }
+  }
+}
