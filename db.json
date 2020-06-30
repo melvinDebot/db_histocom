@@ -1,13 +1,13 @@
 {
   "pagePeriode" : {
-    "pre-histoire" : {
+    "preHistoire" : {
       "title" : "LA PREHISTOIRE",
       "subtitle" : "Afrique, Europe, Asie",
       "text" : "Les premières histoires de la vie des Hommes nous sont apportées par les peintures rupestres retrouvées sur les parois des grottes. Les Hommes des cavernes racontaient leurs chasses, les danger et leur vie commune à travers des dessins.",
       "rightpeople" : "https://ibb.co/1XCzxmS",
       "leftpeople" : "https://ibb.co/9W6YT3r"
     },
-    "ere-romaine" : {
+    "ereRomaine" : {
       "title" : "L'ère romaine",
       "subtitle": "Amerique, Europe",
       "text" : "Les premières histoires de la vie des Hommes nous sont apportées par les peintures rupestres retrouvées sur les parois des grottes. Les Hommes des cavernes racontaient leurs chasses, les danger et leur vie commune à travers des dessins.",
@@ -16,7 +16,7 @@
     }
   },
   "pageObjet" : {
-    "pre-histoire" : {
+    "preHistoire" : {
       "title" : "La préhistoire",
       "subtitle" : "Test",
       "text" : "Les premières histoires de la vie des Hommes nous sont apportées par les peintures rupestres retrouvées sur les parois des grottes. Les Hommes des cavernes racontaient leurs chasses, les danger et leur vie commune à travers des dessins.",
